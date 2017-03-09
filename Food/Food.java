@@ -1,4 +1,4 @@
-public class Food {
+public class Food{
 	private double costPerBulk;
 	private double costPerUnit;
 	private double unitsPerBulk;
